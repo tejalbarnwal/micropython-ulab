@@ -466,9 +466,9 @@
 #define ULAB_NUMPY_HAS_INTERP           (1)
 #endif
 
-#ifndef ULAB_NUMPY_HAS_LOAD
-#define ULAB_NUMPY_HAS_LOAD             (1)
-#endif
+// #ifndef ULAB_NUMPY_HAS_LOAD
+// #define ULAB_NUMPY_HAS_LOAD             (1)
+// #endif
 
 // #ifndef ULAB_NUMPY_HAS_LOADTXT
 // #define ULAB_NUMPY_HAS_LOADTXT          (1)
@@ -498,9 +498,9 @@
 #define ULAB_NUMPY_HAS_ROLL             (1)
 #endif
 
-#ifndef ULAB_NUMPY_HAS_SAVE
-#define ULAB_NUMPY_HAS_SAVE             (1)
-#endif
+// #ifndef ULAB_NUMPY_HAS_SAVE
+// #define ULAB_NUMPY_HAS_SAVE             (1)
+// #endif
 
 // #ifndef ULAB_NUMPY_HAS_SAVETXT
 // #define ULAB_NUMPY_HAS_SAVETXT          (1)
